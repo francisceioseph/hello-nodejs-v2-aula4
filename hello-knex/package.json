@@ -1,0 +1,20 @@
+{
+  "name": "hello-knex",
+  "version": "1.0.0",
+  "description": "A sample project to show how to use knex and nodejs",
+  "main": "knex-sample-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "knex",
+    "sqlite3"
+  ],
+  "author": "Francis Souza",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "sqlite3": "^3.1.8"
+  }
+}
