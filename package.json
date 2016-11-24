@@ -1,0 +1,29 @@
+{
+  "name": "hello-knex",
+  "version": "1.0.0",
+  "description": "A simple project to learn the basics of knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisceioseph/hello-nodejs-v2-aula4.git"
+  },
+  "keywords": [
+    "introduction",
+    "javascript",
+    "knex",
+    "hello-nodejs"
+  ],
+  "author": "Francis Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francisceioseph/hello-nodejs-v2-aula4/issues"
+  },
+  "homepage": "https://github.com/francisceioseph/hello-nodejs-v2-aula4#readme",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "sqlite3": "^3.1.8"
+  }
+}
